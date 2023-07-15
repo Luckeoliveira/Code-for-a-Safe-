@@ -16,7 +16,7 @@ public class Dolar extends Moeda {
 
     public double converter() {
 
-//usei a cotação do Dolar do dia em que realizaei o trabalho
+//usei a cotação do Dolar do dia em que realizei o trabalho
 
         return this.valor * 4.77;
 
